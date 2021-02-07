@@ -2,7 +2,7 @@ package entities;
 
 import enums.Color;
 
-public class Rectangle extends Shape{
+public class Rectangle extends AbtractShape{
 
 	private Double width,height;
 	
